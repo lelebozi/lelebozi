@@ -1,6 +1,6 @@
 ## Bem-vindo! 👋
 
-Meu nome é Eleonora Bozi
+Meu nome é **Eleonora Bozi**
 
 - 🔭 Sou uma estudante do allura
 
